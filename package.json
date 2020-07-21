@@ -1,0 +1,22 @@
+{
+  "name": "arekx-syntax",
+  "publisher": "AxStuff",
+  "displayName": "ArekX Syntax",
+  "description": "A vs color scheme based on classic Dark-Vim theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ArekX Syntax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ArekXSyntax-color-theme.json"
+      }
+    ]
+  }
+}
