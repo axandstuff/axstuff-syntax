@@ -1,4 +1,4 @@
-# AXSyntax Syntax
+# axstuff-syntax
 
 Theme for visual studio code based on the classic "Dark Vim Theme".
 
