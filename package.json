@@ -1,9 +1,11 @@
 {
-  "name": "arekx-syntax",
+  "name": "axstuff-syntax",
   "publisher": "AxStuff",
-  "displayName": "ArekX Syntax",
-  "description": "A vs color scheme based on classic Dark-Vim theme.",
-  "version": "0.0.1",
+  "displayName": "Ax&Stuff Syntax",
+  "description": "A visual studio code color scheme based on classic Dark-Vim theme.",
+  "version": "0.0.2",
+  "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.47.0"
   },
@@ -13,10 +15,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "ArekX Syntax",
+        "label": "A&Stuff Syntax",
         "uiTheme": "vs-dark",
-        "path": "./themes/ArekXSyntax-color-theme.json"
+        "path": "./themes/axstuff-syntax-color-theme.json"
       }
     ]
+  },
+"keywords": [
+    "theme",
+    "dark",
+    "vim",
+    "scheme",
+    "classic",
+    "editor",
+    "colors",
+    "axstuff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axandstuff/axstuff-syntax"
+  },
+  "bugs": {
+    "url": "https://github.com/axandstuff/axstuff-syntax/issues"
+  },
+  "__metadata": {
+    "id": "axstuff-syntax-ext",
+    "publisherDisplayName": "Ax&Stuff",
+    "publisherId": "AxStuff"
   }
 }
+
+
