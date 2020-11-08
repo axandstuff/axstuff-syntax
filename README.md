@@ -1,7 +1,7 @@
-# ArekX Syntax
+# AXSyntax Syntax
 
-Tema para visual studio code basado en "Dark Vim Theme".
+Theme for visual studio code based on the classic "Dark Vim Theme".
 
-### Web del autor:
+### Author website:
 
-- https://axstuff.com/contacto
+- https://axstuff.com/
