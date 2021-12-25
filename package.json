@@ -2,8 +2,8 @@
   "name": "axstuff-syntax",
   "publisher": "AxStuff",
   "displayName": "Ax&Stuff Syntax",
-  "description": "A visual studio code color scheme based on classic Dark-Vim theme.",
-  "version": "0.0.2",
+  "description": "A visual studio code color scheme optimized for identify language elements.",
+  "version": "0.2.0", 
   "license": "MIT",
   "icon": "icon.png",
   "engines": {
